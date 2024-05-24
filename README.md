@@ -2,7 +2,8 @@
 
 
 
-![Uploading image.png…]()
+![image](https://github.com/rohit546/Best_First_Search_Algorithm-Python-/assets/100420859/0fd1de65-2abc-49dc-9cf5-7b5addec9b91)
+
 
 Best First Seacrh (BFS) can be applied in resource scheduling problem, such as scheduling tasks
 on a distributed computing system. By prioritizing tasks based on factors like processing time and
